@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Phi-3 Personal Chatbot</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+    .chat-container {
+      width: 100%;
+      max-width: 700px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      padding: 20px;
+    }
+    .message {
+      margin-bottom: 15px;
+    }
+    .user {
+      font-weight: bold;
+      color: #1a73e8;
+    }
+    .bot {
+      color: #333;
+      white-space: pre-wrap;
+    }
+    input {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+    button {
+      margin-top: 10px;
+      padding: 10px;
+      width: 100%;
+      font-size: 16px;
+      background: #1a73e8;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="chat-container">
+    <h2>🤖 Phi-3 Personal Chatbot</h2>
+    <div id="chat"></div>
+
+    <input id="input" placeholder="Ask me anything..." />
+    <button onclick="send()">Send</button>
+  </div>
+
+  <script>
+    async function send() {
+      const input = document.getElementById("input");
+      const chat = document.getElementById("chat");
+
+      const userMsg = input.value;
+      if (!userMsg) return;
+
+      chat.innerHTML += `<div class="message user">You: ${userMsg}</div>`;
+      input.value = "";
+
+      const res = await fetch("/chat", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: userMsg })
+      });
+
+      const data = await res.json();
+      chat.innerHTML += `<div class="message bot">Bot: ${data.response}</div>`;
+    }
+  </script>
+</body>
+</html>
