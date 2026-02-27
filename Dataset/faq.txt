@@ -1,0 +1,89 @@
+FAQ – Recruiter & Hiring Manager Questions
+Candidate: Swayam Satpathy
+
+Q: Can you briefly introduce yourself?
+A: I am Swayam Satpathy, a Data Science and AI Engineer with hands-on experience in machine learning, deep learning, NLP, computer vision, and generative AI. I focus on building end-to-end, deployable AI systems with real-world impact.
+
+Q: What roles are you currently looking for?
+A: I am looking for entry-level to junior roles such as AI Engineer, Machine Learning Engineer, NLP Engineer, or Data Scientist, where I can grow while contributing to impactful projects.
+
+Q: What are your strongest technical skills?
+A: My strongest skills include Python, TensorFlow, PyTorch, scikit-learn, deep learning model development, LLM-based systems, and deploying AI solutions using Docker and cloud platforms.
+
+Q: Do you have experience with real-world AI projects?
+A: Yes, I have built multiple real-world AI projects including an LLM-powered analytics automation system, a computer vision-based wardrobe stylist, and a radar-based drone vs bird classification system.
+
+Q: Have you worked in an industry environment before?
+A: Yes, I completed an AI and Software Engineering internship at Hindustan Aeronautics Limited (HAL), where I worked on a production-level gate-pass automation system.
+
+Q: What did you work on during your internship at HAL?
+A: I developed a Flask–MySQL-based gate-pass automation system with real-time tracking and an admin dashboard, handling over 200 daily entries and reducing manual approval time by 40%.
+
+Q: Are you comfortable working with production systems?
+A: Yes, I am comfortable taking models from development to deployment, including API creation, optimization, containerization, and monitoring.
+
+Q: Do you have experience with deployment and MLOps?
+A: I have experience deploying AI models using Docker, FastAPI, Streamlit Cloud, and cloud services such as AWS EC2 and S3.
+
+Q: Are you more interested in research or applied engineering?
+A: I am more inclined toward applied AI engineering, where models are designed, optimized, and deployed to solve real business or operational problems.
+
+Q: What kind of projects do you enjoy working on?
+A: I enjoy projects that combine machine learning or deep learning with automation, analytics, computer vision, or LLM-based intelligence.
+
+Q: How do you approach a new problem?
+A: I start by understanding the problem and constraints, analyze the data, select appropriate models, iterate based on results, and finally focus on deployment and scalability.
+
+Q: How do you ensure model performance and reliability?
+A: I use proper validation strategies, hyperparameter tuning, error analysis, and monitoring metrics to ensure reliable and consistent performance.
+
+Q: Are you comfortable working with cross-functional teams?
+A: Yes, I enjoy working in collaborative environments where I can learn from others and contribute my technical expertise.
+
+Q: What type of work culture do you prefer?
+A: I prefer a collaborative, learning-driven work culture that encourages experimentation, mentorship, and continuous improvement.
+
+Q: Are you open to learning new technologies or domains?
+A: Absolutely. I actively enjoy learning new tools, frameworks, and domains as part of my professional growth.
+
+Q: Are you open to relocation?
+A: Yes, I am open to relocation for the right opportunity that supports learning, growth, and collaboration.
+
+Q: Are you open to remote or hybrid roles?
+A: Yes, I am open to remote, hybrid, or on-site roles depending on the organization’s requirements.
+
+Q: What programming languages are you most comfortable with?
+A: I am most comfortable with Python, followed by SQL and basic Java and C.
+
+Q: What frameworks and libraries do you frequently use?
+A: I frequently use TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, OpenCV, and Matplotlib.
+
+Q: Do you have experience with large language models?
+A: Yes, I have built LLM-powered systems including natural language to SQL pipelines, automated analytics, and prompt-optimized recommendation engines.
+
+Q: How do you handle tight deadlines?
+A: I prioritize tasks based on impact, break problems into smaller components, and maintain clear communication to deliver results efficiently.
+
+Q: How do you handle failure or incorrect model results?
+A: I treat failures as learning opportunities, analyze errors systematically, and iterate until the solution meets performance and reliability requirements.
+
+Q: What motivates you as an AI engineer?
+A: I am motivated by solving complex problems using data-driven intelligence and seeing AI systems create real, measurable impact.
+
+Q: Why should we hire you?
+A: I bring a strong foundation in AI and data science, hands-on project and internship experience, and a growth mindset focused on learning, collaboration, and delivering value.
+
+Q: Where do you see yourself in the next 2–3 years?
+A: I see myself growing into a strong AI Engineer, working on complex systems, mentoring others, and contributing to impactful AI-driven products.
+
+Q: Are you interested in collaborative learning environments?
+A: Yes, I strongly value collaborative learning environments where team members grow together through shared knowledge and problem-solving.
+
+Q: How do you keep your skills updated?
+A: I continuously upskill through hands-on projects, certifications, experimentation, technical reading, and building real-world applications.
+
+Q: Are you comfortable explaining technical concepts to non-technical stakeholders?
+A: Yes, I focus on clear, structured explanations and use practical examples to communicate complex ideas effectively.
+
+Q: What kind of impact do you want to make?
+A: I want to build AI systems that are practical, scalable, and genuinely useful in solving real-world problems.

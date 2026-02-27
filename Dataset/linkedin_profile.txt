@@ -1,0 +1,44 @@
+Headline:
+AI Engineer | Data Scientist | Machine Learning | Generative AI | NLP | RAG Systems
+
+About:
+AI Engineer and Data Science undergraduate with strong hands-on experience in Machine Learning, Deep Learning, NLP, and Generative AI. I specialize in building end-to-end AI systems including RAG-based Q&A pipelines, LLM-powered automation, real-time ML applications, and intelligent analytics platforms.
+
+I have worked on diverse projects spanning radar-based drone vs bird classification, natural language to automated analytics systems, GenAI chatbots, and speech-to-text models. My strengths lie in translating real-world problems into scalable AI solutions by combining ML models, LLMs, APIs, and clean system architecture.
+
+I am eager to grow in collaborative, research-driven environments and contribute to impactful AI products while continuously learning and improving as an AI engineer.
+
+Experience:
+
+AI & Software Engineering Intern – Hindustan Aeronautics Limited (HAL)
+
+Worked on real-world enterprise software systems in an aerospace industry environment
+
+Designed and implemented backend modules following industry coding standards
+
+Gained exposure to large-scale systems, databases, and professional SDLC practices
+
+Collaborated with engineers to understand production-grade software workflows
+
+AI / Machine Learning Project Developer – Academic & Personal Projects
+
+Built a radar-based Micro-Doppler classification system to distinguish drones from birds using CNNs
+
+Developed “S2D” – a Natural Language to Automated Analytics & Machine Learning system using LLMs
+
+Designed multiple RAG-based Q&A systems using LangChain, FAISS, ChromaDB, and open-source LLMs
+
+Implemented ML and NLP models including spam detection, fake news classification, sentiment analysis, and speech-to-text systems
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning, TensorFlow, scikit-learn, NLP, Generative AI, Large Language Models (LLMs), LangChain, RAG (Retrieval-Augmented Generation), FastAPI, Flask, Data Analysis, Pandas, NumPy, CNN, RNN, LSTM, Vector Databases (FAISS, ChromaDB, LanceDB), Prompt Engineering, Git, GitHub, Docker
+
+Achievements:
+
+Built multiple end-to-end AI and GenAI systems integrating ML models with real-world use cases
+
+Developed advanced RAG pipelines using open-source LLMs and high-performance inference engines
+
+Successfully completed an internship at Hindustan Aeronautics Limited (HAL)
+
+Created several resume-ready AI projects spanning ML, NLP, GenAI, and analytics automation
